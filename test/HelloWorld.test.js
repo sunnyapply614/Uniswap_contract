@@ -1,8 +1,3 @@
-//Uniswap-contract/test/HelloWordld.test.js
-//TITLE : HelloWordld.test
-//Description:
-
-
 const { expect } = require("chai");
 const { ethers } = require("hardhat");
 
