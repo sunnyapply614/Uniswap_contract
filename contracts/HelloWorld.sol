@@ -8,8 +8,5 @@ contract HelloWorld {
         message = _message; 
     }
 
-    function greet() external view returns (string memory) {
-        return string(abi.encodePacked("Hello", " ", message));
-    }
+    
 }
-
